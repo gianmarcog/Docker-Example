@@ -1,3 +1,5 @@
+//Simple class to transfer Data from the localhost to the Docker-Container
+
 let express = require('express');
 let path = require('path');
 let fs = require('fs');
